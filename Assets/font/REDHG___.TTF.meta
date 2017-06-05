@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1eb9e9faf33f2e841b04d91b104e4058
+timeCreated: 1494662517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Redhead Goddess
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c4b929239d254f4e8571c4cd9d2b237, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
